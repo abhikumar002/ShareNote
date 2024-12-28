@@ -7,7 +7,7 @@ into ShareNote(react-frontend)
 4. npm install react@18 react-dom@18 (latest)
 5. npm start
 
-#Server - Start
+# Server - Start
 1. npm install express
 2. npm install socket.io
 3. npm install cors
